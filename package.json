@@ -2,7 +2,7 @@
 	"name": "trello-clone",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://Bhavana-Mallineni.github.io/The-2-Do-App",
+	"homepage": "https://bhavana-mallineni.github.io/The-2-Do-App/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
 		"@testing-library/react": "^13.4.0",
