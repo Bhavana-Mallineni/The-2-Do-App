@@ -1,4 +1,4 @@
-# To-Do App
+# The-2-Do App
 
 This is a Task manager application built with React. It allows users to create and manage tasks using a drag-and-drop interface, similar to tools like Trello. Users can add, update, and delete lists and cards, making it a flexible tool for organizing tasks, projects, or personal goals.
 
