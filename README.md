@@ -1,4 +1,4 @@
-# TASK NEST App
+# To-Do App
 
 This is a Task manager application built with React. It allows users to create and manage tasks using a drag-and-drop interface, similar to tools like Trello. Users can add, update, and delete lists and cards, making it a flexible tool for organizing tasks, projects, or personal goals.
 
@@ -28,8 +28,8 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/Task-board-app.git
-    cd Task-board-app
+    git clone https://github.com/your-username/The-2-Do-app.git
+    cd The-2-Do-app
     ```
 
 2. **Install dependencies**:
