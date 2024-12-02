@@ -1,0 +1,15 @@
+UI Components: 
+1. Header
+ - With a reset button
+2. Board
+ - Draggable lists
+ - Handle addition, deletion, reordering of lists
+3. List
+ - Displays the title, "Add Card" button, "Delete List" button.
+ - Contains draggable Card components.- Handles renaming lists (using a modal).
+ - Handles adding and deleting cards.
+4. Card
+ - Draggable
+ - Title, description, duedate
+ - delete button for the cards
+5. Add New List

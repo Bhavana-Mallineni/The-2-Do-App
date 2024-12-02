@@ -28,6 +28,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +36,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.glow-effect {
+	box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);
+}
+
+.card-list[data-is-editing="true"] .card:not(.glow-effect) {
+	opacity: 0.5;
+	pointer-events: none; /* Disable clicks only for sibling cards */
+}
+
+.card-list[data-is-editing="true"] .card.glow-effect {
+	opacity: 1; /* Keep the edited card fully visible and interactive */
+	pointer-events: auto;
+}
+
+
+.scrollbar-hide-vertical::-webkit-scrollbar {
+  display: none; /* Hide vertical scrollbar */
+}
+.scrollbar-hide-vertical {
+  -ms-overflow-style: none; /* For IE and Edge */
+  scrollbar-width: none; /* For Firefox */
+}
+
+.card-list {
+	transition: opacity 0.3s ease-in-out; /* Smooth opacity transition */
 }
