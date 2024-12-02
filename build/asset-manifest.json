@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/The-2-Do-App/static/css/main.f0d0e55d.css",
+    "main.js": "/The-2-Do-App/static/js/main.742dc9f0.js",
+    "static/js/453.3f0abe9d.chunk.js": "/The-2-Do-App/static/js/453.3f0abe9d.chunk.js",
+    "index.html": "/The-2-Do-App/index.html",
+    "main.f0d0e55d.css.map": "/The-2-Do-App/static/css/main.f0d0e55d.css.map",
+    "main.742dc9f0.js.map": "/The-2-Do-App/static/js/main.742dc9f0.js.map",
+    "453.3f0abe9d.chunk.js.map": "/The-2-Do-App/static/js/453.3f0abe9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d0e55d.css",
+    "static/js/main.742dc9f0.js"
+  ]
+}
